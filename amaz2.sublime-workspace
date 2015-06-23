@@ -31,7 +31,7 @@
 			"file": "faq.html",
 			"settings":
 			{
-				"buffer_size": 1004,
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		},
@@ -39,7 +39,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 1892,
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		},
@@ -47,7 +47,7 @@
 			"file": "reset.css",
 			"settings":
 			{
-				"buffer_size": 1092,
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		},
@@ -55,7 +55,7 @@
 			"file": "support.html",
 			"settings":
 			{
-				"buffer_size": 1057,
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		},
@@ -63,7 +63,7 @@
 			"file": "about.html",
 			"settings":
 			{
-				"buffer_size": 1030,
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		},
@@ -71,7 +71,7 @@
 			"file": "careers.html",
 			"settings":
 			{
-				"buffer_size": 1048,
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		},
@@ -79,7 +79,7 @@
 			"file": "privacy.html",
 			"settings":
 			{
-				"buffer_size": 1059,
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		},
@@ -87,7 +87,7 @@
 			"file": "signup.html",
 			"settings":
 			{
-				"buffer_size": 1058,
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		},
@@ -95,7 +95,15 @@
 			"file": "style.css",
 			"settings":
 			{
-				"buffer_size": 1004,
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 8,
 				"line_ending": "Unix"
 			}
 		}
@@ -124,6 +132,8 @@
 	},
 	"file_history":
 	[
+		"/Users/devon/lwad/amaz2/amaze.sublime-workspace",
+		"/Users/devon/lwad/Amazeriffic/amaze.sublime-project",
 		"/Users/devon/Library/Application Support/Sublime Text 2/Packages/User/CSS.sublime-settings",
 		"/Users/devon/index.html",
 		"/Users/devon/Documents/tpd/shttps",
@@ -163,7 +173,7 @@
 	"groups":
 	[
 		{
-			"selected": 8,
+			"selected": 9,
 			"sheets":
 			[
 				{
@@ -171,15 +181,15 @@
 					"file": "faq.html",
 					"settings":
 					{
-						"buffer_size": 1004,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								67,
-								182
+								0,
+								0
 							]
 						],
 						"settings":
@@ -198,15 +208,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 1892,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1502,
-								1502
+								0,
+								0
 							]
 						],
 						"settings":
@@ -225,15 +235,15 @@
 					"file": "reset.css",
 					"settings":
 					{
-						"buffer_size": 1092,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								596,
-								596
+								0,
+								0
 							]
 						],
 						"settings":
@@ -252,15 +262,15 @@
 					"file": "support.html",
 					"settings":
 					{
-						"buffer_size": 1057,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								186,
-								186
+								0,
+								0
 							]
 						],
 						"settings":
@@ -279,15 +289,15 @@
 					"file": "about.html",
 					"settings":
 					{
-						"buffer_size": 1030,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								189,
-								189
+								0,
+								0
 							]
 						],
 						"settings":
@@ -306,15 +316,15 @@
 					"file": "careers.html",
 					"settings":
 					{
-						"buffer_size": 1048,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								186,
-								186
+								0,
+								0
 							]
 						],
 						"settings":
@@ -333,15 +343,15 @@
 					"file": "privacy.html",
 					"settings":
 					{
-						"buffer_size": 1059,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								186,
-								186
+								0,
+								0
 							]
 						],
 						"settings":
@@ -360,15 +370,15 @@
 					"file": "signup.html",
 					"settings":
 					{
-						"buffer_size": 1058,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								186,
-								186
+								0,
+								0
 							]
 						],
 						"settings":
@@ -387,15 +397,15 @@
 					"file": "style.css",
 					"settings":
 					{
-						"buffer_size": 1004,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								260,
-								260
+								0,
+								0
 							]
 						],
 						"settings":
@@ -404,6 +414,32 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 40.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "README.md",
+					"settings":
+					{
+						"buffer_size": 8,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
