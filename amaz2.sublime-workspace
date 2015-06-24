@@ -28,82 +28,67 @@
 	"buffers":
 	[
 		{
-			"file": "faq.html",
+			"file": "html/index.html",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 1916,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "index.html",
+			"file": "html/about.xhtml",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 1241,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "reset.css",
+			"file": "html/careers.html",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 1157,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "support.html",
+			"file": "html/faq.html",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 1118,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "about.html",
+			"file": "html/privacy.html",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 1168,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "careers.html",
+			"file": "html/signup.html",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 1167,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "privacy.html",
+			"file": "html/devon",
 			"settings":
 			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
+				"buffer_size": 64,
+				"line_ending": "Unix",
+				"name": "<!doctype html>"
 			}
 		},
 		{
-			"file": "signup.html",
+			"file": "html/support.html",
 			"settings":
 			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "style.css",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "README.md",
-			"settings":
-			{
-				"buffer_size": 8,
+				"buffer_size": 1166,
 				"line_ending": "Unix"
 			}
 		}
@@ -132,12 +117,21 @@
 	},
 	"file_history":
 	[
+		"/Users/devon/lwad/amaz2/amaz2.sublime-project",
+		"/Users/devon/lwad/amaz2/amaz2.sublime-workspace",
+		"/Users/devon/lwad/amaz2/faq.html",
+		"/Users/devon/lwad/amaz2/index.html",
+		"/Users/devon/lwad/amaz2/reset.css",
+		"/Users/devon/lwad/amaz2/support.html",
+		"/Users/devon/lwad/amaz2/about.html",
+		"/Users/devon/lwad/amaz2/careers.html",
+		"/Users/devon/lwad/amaz2/privacy.html",
+		"/Users/devon/lwad/amaz2/signup.html",
+		"/Users/devon/lwad/amaz2/style.css",
+		"/Users/devon/lwad/amaz2/README.md",
 		"/Users/devon/lwad/amaz2/amaze.sublime-workspace",
 		"/Users/devon/lwad/Amazeriffic/amaze.sublime-project",
 		"/Users/devon/Library/Application Support/Sublime Text 2/Packages/User/CSS.sublime-settings",
-		"/Users/devon/index.html",
-		"/Users/devon/Documents/tpd/shttps",
-		"/Users/devon/Documents/tpd/mServerScript.js"
 	],
 	"find":
 	{
@@ -173,23 +167,23 @@
 	"groups":
 	[
 		{
-			"selected": 9,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "faq.html",
+					"file": "html/index.html",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 1916,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1899,
+								1281
 							]
 						],
 						"settings":
@@ -198,25 +192,25 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 25.0,
+						"translation.y": 419.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "index.html",
+					"file": "html/about.xhtml",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 1241,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								276,
+								276
 							]
 						],
 						"settings":
@@ -225,52 +219,25 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 370.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "reset.css",
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 31.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "support.html",
+					"file": "html/careers.html",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 1157,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								520,
+								401
 							]
 						],
 						"settings":
@@ -279,25 +246,25 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 74.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 4,
-					"file": "about.html",
+					"file": "html/faq.html",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 1118,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1101,
+								1101
 							]
 						],
 						"settings":
@@ -306,25 +273,25 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 74.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 5,
-					"file": "careers.html",
+					"file": "html/privacy.html",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 1168,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								531,
+								404
 							]
 						],
 						"settings":
@@ -333,25 +300,25 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 11.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 6,
-					"file": "privacy.html",
+					"file": "html/signup.html",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 1167,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								530,
+								407
 							]
 						],
 						"settings":
@@ -360,31 +327,31 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 20.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 7,
-					"file": "signup.html",
+					"file": "html/devon",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 64,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								64,
+								64
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"auto_name": "<!doctype html>",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -394,52 +361,27 @@
 				},
 				{
 					"buffer": 8,
-					"file": "style.css",
+					"file": "html/support.html",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 1166,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								529,
+								406
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 40.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "README.md",
-					"settings":
-					{
-						"buffer_size": 8,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 74.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

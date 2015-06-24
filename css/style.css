@@ -41,6 +41,13 @@ header .container, main .container, footer .container {
 	margin: auto;
 }
 
+.topcontainer {
+	max-width: 855px;
+	min-height: 70px;
+	margin: auto;
+	background: white;
+}
+
 header {
 	background: white;
 	overflow: auto;
@@ -85,4 +92,33 @@ footer .contact {
 footer .sitemap {
 	float: right;
 	width: 285px;
+}
+
+table {
+	color: black;
+	overflow: auto;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
+
+th {
+	background-color: #linen;
+}
+
+tr:nth-child(odd) {
+	background-color: #ddd;
+}
+tr:nth-child(even) {
+	background-color: #fff;
+	height: 30px;
+}
+
+td:nth-child(odd) {
+	padding-left: 10px;
+}
+
+td:nth-child(even) {
+	padding-left: 10px;
+	padding-right: 5px;
 }
