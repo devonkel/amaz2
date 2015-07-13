@@ -42,7 +42,7 @@ var main = function (toDoObjects) {
                         }
                     });
                 });
-                console.log(tags);
+                // console.log(tags);
 
                 var tagObjects = tags.map(function (tag) {
                     var toDosWithTag = [];
@@ -109,7 +109,7 @@ var main = function (toDoObjects) {
 };
 
 $(document).ready(function () {
-    $.getJSON("../html/todos.json", function (toDoObjects) {
+    $.getJSON("http://localhost:8000/html/todos.json", function (toDoObjects) {
         main(toDoObjects);
     });
 });
